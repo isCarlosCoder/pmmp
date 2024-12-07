@@ -1,0 +1,17 @@
+---
+language: ENG
+coords_off_message_ua: '§f§l§o[§c!§f] §8§l§o§fX§eC§r§8§7 :: §fВи успішно §cвимкнули
+  §fвідображення координат.'
+coords_on_message_ua: '§f§l§o[§c!§f] §8§l§o§fX§eC§r§8§7 :: §fВи успішно §ввімкнули
+  §fвідображення координат.'
+no_permissions_ua: '§f§l§o[§c!§f] §8§l§o§fX§eC§r§8§7 :: §fУ вас §cнедостатньо §fправ
+  для використання цієї команди.'
+description_ua: Вимкнути/увімкнути відображення координат.
+coords_off_message: '§f§l§o[§c!§f] §8§l§o§fX§eC§r§8§7 :: §fYou have successfully §cdisabled
+  the §fcoordinate display.'
+coords_on_message: '§f§l§o[§c!§f] §8§l§o§fX§eC§r§8§7 :: §fYou have successfully §fenabled
+  the §fcoordinate display.'
+no_permissions: '§f§l§o[§c!§f] §8§l§o§fX§eC§r§8§7 :: §fYou not have permissions!'
+description: Disable/enable display of coordinates.
+carlos dlw: "true"
+...

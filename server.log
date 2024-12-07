@@ -1,0 +1,815 @@
+2024-12-07 [16:29:40.236] [Server thread/INFO]: Loading server configuration
+2024-12-07 [16:29:40.247] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [16:29:40.250] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [16:29:40.253] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [16:29:40.264] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [16:29:40.265] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [16:29:40.978] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [16:29:41.280] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [16:29:41.329] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2024-12-07 [16:29:41.927] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [16:29:41.927] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [16:29:41.963] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [16:29:41.964] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [16:29:41.966] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [16:29:41.966] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [16:29:41.967] [Server thread/INFO]: Done (1.733s)! For help, type "help" or "?"
+2024-12-07 [16:29:42.124] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [16:29:42.566] [Server thread/INFO]: [World: world] Generating spawn terrain: 1 / 224 (0%)
+2024-12-07 [16:29:51.463] [Server thread/INFO]: [World: world] Generating spawn terrain: 23 / 224 (10%)
+2024-12-07 [16:29:52.534] [Server thread/INFO]: [World: world] Generating spawn terrain: 45 / 224 (20%)
+2024-12-07 [16:29:54.166] [Server thread/INFO]: [World: world] Generating spawn terrain: 68 / 224 (30%)
+2024-12-07 [16:29:55.055] [Server thread/INFO]: [World: world] Generating spawn terrain: 90 / 224 (40%)
+2024-12-07 [16:29:55.884] [Server thread/INFO]: [World: world] Generating spawn terrain: 112 / 224 (50%)
+2024-12-07 [16:29:56.275] [Server thread/INFO]: [World: world] Generating spawn terrain: 135 / 224 (60%)
+2024-12-07 [16:29:56.629] [Server thread/INFO]: [World: world] Generating spawn terrain: 157 / 224 (70%)
+2024-12-07 [16:29:57.098] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
+2024-12-07 [16:29:57.434] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
+2024-12-07 [16:29:57.751] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2024-12-07 [16:30:10.560] [Server thread/INFO]: [NetworkSession: ::1 55308] Session opened
+2024-12-07 [16:30:10.645] [Server thread/INFO]: [NetworkSession: ::1 55308] Player: Carlos Dlw
+2024-12-07 [16:30:11.204] [Server thread/INFO]: Carlos Dlw[/::1:55308] logged in with entity id 1 at (world, 256, 73, 256)
+2024-12-07 [16:30:18.387] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [16:30:42.276] [Server thread/INFO]: [CONSOLE: Opped Carlos Dlw]
+2024-12-07 [16:31:03.353] [Server thread/INFO]: [Carlos Dlw: Set own game mode to Creative Mode]
+2024-12-07 [16:33:24.732] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [16:33:24.756] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [16:33:24.780] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Server closed
+2024-12-07 [16:33:24.781] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [16:33:25.831] [Server thread/INFO]: Stopping other threads
+2024-12-07 [16:33:27.963] [Server thread/INFO]: Loading server configuration
+2024-12-07 [16:33:27.996] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [16:33:27.997] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [16:33:28.003] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [16:33:28.014] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [16:33:28.015] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [16:33:28.722] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [16:33:28.737] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [16:33:29.094] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [16:33:29.141] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [16:33:29.712] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [16:33:29.712] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [16:33:29.727] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [16:33:29.727] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [16:33:29.728] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [16:33:29.728] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [16:33:29.728] [Server thread/INFO]: Done (1.767s)! For help, type "help" or "?"
+2024-12-07 [16:33:29.832] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [16:33:57.483] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Session opened
+2024-12-07 [16:33:57.554] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Player: Carlos Dlw
+2024-12-07 [16:33:58.076] [Server thread/INFO]: Carlos Dlw[/127.0.0.1:45954] logged in with entity id 1 at (world, 280.2055, 78, 252.7788)
+2024-12-07 [16:34:04.255] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [16:37:00.831] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [16:37:00.839] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Client disconnected
+2024-12-07 [16:37:02.731] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [16:37:02.733] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [16:37:02.733] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [16:37:02.808] [Server thread/INFO]: Stopping other threads
+2024-12-07 [16:43:03.112] [Server thread/INFO]: Loading server configuration
+2024-12-07 [16:43:03.130] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [16:43:03.132] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [16:43:03.135] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [16:43:03.147] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [16:43:03.148] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [16:43:03.810] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [16:43:03.829] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [16:43:03.835] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [16:43:04.158] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [16:43:04.203] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [16:43:04.204] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [16:43:04.761] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [16:43:04.761] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [16:43:04.777] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [16:43:04.777] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [16:43:04.777] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [16:43:04.778] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [16:43:04.778] [Server thread/INFO]: Done (1.667s)! For help, type "help" or "?"
+2024-12-07 [16:43:04.881] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [16:43:13.823] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Session opened
+2024-12-07 [16:43:13.903] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Player: Carlos Dlw
+2024-12-07 [16:43:14.427] [Server thread/INFO]: Carlos Dlw[/127.0.0.1:45954] logged in with entity id 1 at (world, 277.8625, 78, 250.5892)
+2024-12-07 [16:43:21.482] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [16:46:18.841] [Server thread/INFO]: [Carlos Dlw: Cleared the inventory of Carlos Dlw, removing 134 items]
+2024-12-07 [16:46:21.923] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [16:46:21.929] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Client disconnected
+2024-12-07 [16:54:32.935] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [16:54:32.950] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [16:54:32.955] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [16:54:32.962] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [16:54:33.104] [Server thread/INFO]: Stopping other threads
+2024-12-07 [16:54:48.500] [Server thread/INFO]: Loading server configuration
+2024-12-07 [16:54:48.524] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [16:54:48.526] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [16:54:48.531] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [16:54:48.546] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [16:54:48.546] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [16:54:49.211] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [16:54:49.229] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [16:54:49.236] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [16:54:49.237] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [16:54:49.551] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [16:54:49.596] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [16:54:49.639] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [16:54:49.639] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [16:54:49.697] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [16:54:50.172] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [16:54:50.172] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [16:54:50.188] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [16:54:50.189] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [16:54:50.189] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [16:54:50.189] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [16:54:50.189] [Server thread/INFO]: Done (1.69s)! For help, type "help" or "?"
+2024-12-07 [16:54:50.245] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [16:54:54.080] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Session opened
+2024-12-07 [16:54:54.181] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Player: Carlos Dlw
+2024-12-07 [16:54:54.805] [Server thread/INFO]: Carlos Dlw[/127.0.0.1:45954] logged in with entity id 1 at (world, 277.61, 78, 251.8506)
+2024-12-07 [16:55:02.205] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [16:55:24.248] [Server thread/INFO]: [Carlos Dlw: Set the time to 1000]
+2024-12-07 [17:02:26.215] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [17:02:26.220] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Client disconnected
+2024-12-07 [17:05:32.192] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [17:05:32.196] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [17:05:32.225] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [17:05:32.225] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [17:05:32.226] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [17:05:32.259] [Server thread/INFO]: Stopping other threads
+2024-12-07 [17:05:34.648] [Server thread/INFO]: Loading server configuration
+2024-12-07 [17:05:34.667] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [17:05:34.669] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [17:05:34.676] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [17:05:34.691] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [17:05:34.691] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [17:05:35.350] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [17:05:35.375] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [17:05:35.378] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [17:05:35.380] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [17:05:35.730] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [17:05:35.777] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [17:05:35.820] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [17:05:35.823] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [17:05:36.031] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [17:05:36.375] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [17:05:36.376] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [17:05:36.391] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [17:05:36.391] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [17:05:36.392] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [17:05:36.392] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [17:05:36.392] [Server thread/INFO]: Done (1.745s)! For help, type "help" or "?"
+2024-12-07 [17:05:36.447] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [17:05:40.794] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [17:05:40.795] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [17:05:40.802] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [17:05:40.802] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [17:05:40.803] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [17:05:40.819] [Server thread/INFO]: Stopping other threads
+2024-12-07 [17:05:48.930] [Server thread/INFO]: Loading server configuration
+2024-12-07 [17:05:48.945] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [17:05:48.947] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [17:05:48.952] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [17:05:48.961] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [17:05:48.961] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [17:05:49.625] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [17:05:49.643] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [17:05:49.646] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [17:05:49.648] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [17:05:49.941] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [17:05:49.987] [Server thread/NOTICE]: Spawn terrain for world "world" is being generated in the background
+2024-12-07 [17:05:49.999] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [17:05:50.003] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [17:05:50.004] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [17:05:50.104] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [17:05:50.630] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [17:05:50.630] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [17:05:50.645] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [17:05:50.645] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [17:05:50.646] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [17:05:50.646] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [17:05:50.647] [Server thread/INFO]: Done (1.718s)! For help, type "help" or "?"
+2024-12-07 [17:05:50.703] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [17:05:51.223] [Server thread/INFO]: [World: world] Generating spawn terrain: 1 / 224 (0%)
+2024-12-07 [17:05:51.293] [Server thread/INFO]: [World: world] Generating spawn terrain: 23 / 224 (10%)
+2024-12-07 [17:05:51.356] [Server thread/INFO]: [World: world] Generating spawn terrain: 45 / 224 (20%)
+2024-12-07 [17:05:51.402] [Server thread/INFO]: [World: world] Generating spawn terrain: 68 / 224 (30%)
+2024-12-07 [17:05:51.460] [Server thread/INFO]: [World: world] Generating spawn terrain: 90 / 224 (40%)
+2024-12-07 [17:05:51.490] [Server thread/INFO]: [World: world] Generating spawn terrain: 112 / 224 (50%)
+2024-12-07 [17:05:51.516] [Server thread/INFO]: [World: world] Generating spawn terrain: 135 / 224 (60%)
+2024-12-07 [17:05:51.545] [Server thread/INFO]: [World: world] Generating spawn terrain: 157 / 224 (70%)
+2024-12-07 [17:05:51.570] [Server thread/INFO]: [World: world] Generating spawn terrain: 180 / 224 (80%)
+2024-12-07 [17:05:51.605] [Server thread/INFO]: [World: world] Generating spawn terrain: 202 / 224 (90%)
+2024-12-07 [17:05:51.637] [Server thread/INFO]: [World: world] Generating spawn terrain: 224 / 224 (100%)
+2024-12-07 [17:05:58.505] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Session opened
+2024-12-07 [17:05:58.581] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Player: Carlos Dlw
+2024-12-07 [17:05:59.167] [Server thread/INFO]: Carlos Dlw[/127.0.0.1:45954] logged in with entity id 1 at (world, 297.4584, 15.4456, 261.5034)
+2024-12-07 [17:06:05.329] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [17:12:56.065] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [17:12:56.100] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [17:12:56.100] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [17:12:56.101] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [17:12:56.113] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [17:12:56.119] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Server closed
+2024-12-07 [17:12:56.119] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [17:12:56.177] [Server thread/INFO]: Stopping other threads
+2024-12-07 [17:13:20.287] [Server thread/INFO]: Loading server configuration
+2024-12-07 [17:13:20.302] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [17:13:20.304] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [17:13:20.308] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [17:13:20.318] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [17:13:20.318] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [17:13:21.002] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [17:13:21.021] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [17:13:21.024] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [17:13:21.026] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [17:13:21.028] [Server thread/INFO]: Loading Mobs v2.0.1
+2024-12-07 [17:13:21.355] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [17:13:21.402] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [17:13:21.447] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [17:13:21.447] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [17:13:21.450] [Server thread/INFO]: Enabling Mobs v2.0.1
+2024-12-07 [17:13:21.654] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [17:13:22.022] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [17:13:22.022] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [17:13:22.039] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [17:13:22.039] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [17:13:22.040] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [17:13:22.040] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [17:13:22.040] [Server thread/INFO]: Done (1.755s)! For help, type "help" or "?"
+2024-12-07 [17:13:22.096] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [17:13:33.780] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Session opened
+2024-12-07 [17:13:33.846] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Player: Carlos Dlw
+2024-12-07 [17:13:34.327] [Server thread/INFO]: Carlos Dlw[/127.0.0.1:45954] logged in with entity id 1 at (world, 299.4348, 4, 245.2073)
+2024-12-07 [17:13:39.727] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [17:17:55.731] [Server thread/INFO]: [Carlos Dlw: Set the time to 1000]
+2024-12-07 [17:17:59.095] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [17:17:59.102] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Client disconnected
+2024-12-07 [17:18:03.142] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [17:18:03.143] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [17:18:03.147] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [17:18:03.148] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [17:18:03.148] [Server thread/INFO]: Disabling Mobs v2.0.1
+2024-12-07 [17:18:03.149] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [17:18:03.205] [Server thread/INFO]: Stopping other threads
+2024-12-07 [17:18:32.157] [Server thread/INFO]: Loading server configuration
+2024-12-07 [17:18:32.175] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [17:18:32.177] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [17:18:32.180] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [17:18:32.189] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [17:18:32.189] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [17:18:32.852] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [17:18:32.869] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [17:18:32.872] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [17:18:32.874] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [17:18:33.177] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [17:18:33.219] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [17:18:33.220] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [17:18:33.223] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [17:18:33.800] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [17:18:33.800] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [17:18:33.813] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [17:18:33.814] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [17:18:33.814] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [17:18:33.814] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [17:18:33.814] [Server thread/INFO]: Done (1.658s)! For help, type "help" or "?"
+2024-12-07 [17:18:33.856] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [17:18:33.917] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [17:18:39.891] [Server thread/INFO]: [NetworkSession: ::1 55308] Session opened
+2024-12-07 [17:18:39.965] [Server thread/INFO]: [NetworkSession: ::1 55308] Player: Carlos Dlw
+2024-12-07 [17:18:40.459] [Server thread/INFO]: Carlos Dlw[/::1:55308] logged in with entity id 1 at (world, 241.2487, 4, 240.9235)
+2024-12-07 [17:18:45.970] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [17:27:53.516] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [17:27:53.526] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Client disconnected
+2024-12-07 [17:27:54.866] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [17:27:54.868] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [17:27:54.870] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [17:27:54.870] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [17:27:54.922] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [17:27:54.990] [Server thread/INFO]: Stopping other threads
+2024-12-07 [17:28:10.261] [Server thread/INFO]: Loading server configuration
+2024-12-07 [17:28:10.277] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [17:28:10.279] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [17:28:10.282] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [17:28:10.294] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [17:28:10.295] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [17:28:10.955] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [17:28:10.986] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [17:28:10.997] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [17:28:10.999] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [17:28:11.001] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [17:28:11.285] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [17:28:11.330] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [17:28:11.332] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [17:28:11.335] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [17:28:11.377] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [17:28:11.916] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [17:28:11.917] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [17:28:11.931] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [17:28:11.931] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [17:28:11.932] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [17:28:11.932] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [17:28:11.932] [Server thread/INFO]: Done (1.674s)! For help, type "help" or "?"
+2024-12-07 [17:28:11.978] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [17:28:12.036] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [17:28:16.866] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Session opened
+2024-12-07 [17:28:16.940] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Player: Carlos Dlw
+2024-12-07 [17:28:17.430] [Server thread/INFO]: Carlos Dlw[/127.0.0.1:45954] logged in with entity id 1 at (world, 234.7649, 4, 242.6995)
+2024-12-07 [17:28:23.123] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [17:29:32.404] [Server thread/INFO]: [Carlos Dlw: Set the world spawn point to (0, 4, 0)]
+2024-12-07 [17:30:49.703] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [17:30:49.714] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Client disconnected
+2024-12-07 [17:30:54.035] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [17:30:54.037] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [17:30:54.038] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [17:30:54.038] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [17:30:54.064] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [17:30:54.065] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [17:30:54.147] [Server thread/INFO]: Stopping other threads
+2024-12-07 [17:31:06.365] [Server thread/INFO]: Loading server configuration
+2024-12-07 [17:31:06.386] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [17:31:06.388] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [17:31:06.397] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [17:31:06.409] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [17:31:06.409] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [17:31:07.097] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [17:31:07.126] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [17:31:07.135] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [17:31:07.138] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [17:31:07.139] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [17:31:07.142] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [17:31:07.452] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [17:31:07.498] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [17:31:07.501] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [17:31:07.545] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [17:31:07.546] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [17:31:07.548] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [17:31:08.096] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [17:31:08.096] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [17:31:08.047] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [17:31:08.128] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [17:31:08.129] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [17:31:08.129] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [17:31:08.129] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [17:31:08.129] [Server thread/INFO]: Done (1.766s)! For help, type "help" or "?"
+2024-12-07 [17:31:08.234] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [17:31:14.768] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Session opened
+2024-12-07 [17:31:14.841] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Player: Carlos Dlw
+2024-12-07 [17:31:15.316] [Server thread/INFO]: Carlos Dlw[/127.0.0.1:45954] logged in with entity id 1 at (world, -3.6756, 4, 4.5392)
+2024-12-07 [17:31:20.735] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [17:31:35.342] [Server thread/INFO]: [Carlos Dlw: Set the time to 1000]
+2024-12-07 [17:33:34.159] [Server thread/INFO]: [Carlos Dlw: Set own game mode to Adventure Mode]
+2024-12-07 [17:33:51.679] [Server thread/INFO]: [Carlos Dlw: Set own game mode to Spectator Mode]
+2024-12-07 [17:34:12.934] [Server thread/INFO]: [Carlos Dlw: Set own game mode to Survival Mode]
+2024-12-07 [17:35:29.322] [Server thread/INFO]: [Carlos Dlw: Given Diamond Pickaxe (diamond_pickaxe) * 1 to Carlos Dlw]
+2024-12-07 [17:37:30.575] [Server thread/INFO]: [Carlos Dlw: De-opped Carlos Dlw]
+2024-12-07 [17:37:50.088] [Server thread/INFO]: [CONSOLE: Opped Carlos Dlw]
+2024-12-07 [17:38:05.260] [Server thread/INFO]: [Carlos Dlw: Set own game mode to Creative Mode]
+2024-12-07 [17:53:40.629] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [17:53:40.636] [Server thread/INFO]: Disabling WorldGuardian v1.0
+2024-12-07 [17:53:40.638] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [17:53:40.687] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [17:53:40.687] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [17:53:40.687] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [17:53:40.689] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [17:53:40.695] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Server closed
+2024-12-07 [17:53:40.696] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [17:53:40.768] [Server thread/INFO]: Stopping other threads
+2024-12-07 [17:56:06.969] [Server thread/INFO]: Loading server configuration
+2024-12-07 [17:56:06.995] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [17:56:06.997] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [17:56:07.001] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [17:56:07.011] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [17:56:07.011] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [17:56:07.711] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [17:56:07.743] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [17:56:07.747] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [17:56:07.750] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [17:56:07.752] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [17:56:07.754] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [17:56:07.757] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [17:56:07.768] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [17:56:07.770] [Server thread/INFO]: Enabling DevTools v1.17.1
+2024-12-07 [17:56:08.062] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [17:56:08.108] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [17:56:08.112] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [17:56:08.112] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [17:56:08.115] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [17:56:08.162] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [17:56:08.455] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [17:56:08.722] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [17:56:08.722] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [17:56:08.738] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [17:56:08.738] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [17:56:08.739] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [17:56:08.739] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [17:56:08.739] [Server thread/INFO]: Done (1.772s)! For help, type "help" or "?"
+2024-12-07 [17:56:08.795] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [17:56:11.642] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [17:56:11.643] [Server thread/INFO]: Disabling DevTools v1.17.1
+2024-12-07 [17:56:11.643] [Server thread/INFO]: Disabling WorldGuardian v1.0
+2024-12-07 [17:56:11.643] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [17:56:11.643] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [17:56:11.644] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [17:56:11.653] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [17:56:11.654] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [17:56:11.674] [Server thread/INFO]: Stopping other threads
+2024-12-07 [17:57:48.939] [Server thread/INFO]: Loading server configuration
+2024-12-07 [17:57:48.956] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [17:57:48.958] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [17:57:48.962] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [17:57:48.974] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [17:57:48.974] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [17:57:49.650] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [17:57:49.669] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [17:57:49.672] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [17:57:49.674] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [17:57:49.676] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [17:57:49.677] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [17:57:49.686] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [17:57:49.687] [Server thread/CRITICAL]: Could not load plugin 'MyPlot': Incompatible API version (plugin requires one of: 4.0.0)
+2024-12-07 [17:57:49.687] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [17:57:49.689] [Server thread/EMERGENCY]: Failed to load some plugins, stopping server to protect server integrity
+2024-12-07 [17:57:49.689] [Server thread/EMERGENCY]: Forcing server shutdown
+2024-12-07 [17:58:13.824] [Server thread/INFO]: Loading server configuration
+2024-12-07 [17:58:13.840] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [17:58:13.842] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [17:58:13.845] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [17:58:13.855] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [17:58:13.856] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [17:58:14.530] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [17:58:14.554] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [17:58:14.557] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [17:58:14.560] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [17:58:14.562] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [17:58:14.563] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [17:58:14.571] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [17:58:14.571] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [17:58:14.572] [Server thread/INFO]: Enabling DevTools v1.17.1
+2024-12-07 [17:58:14.826] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [17:58:14.872] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [17:58:14.873] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [17:58:14.923] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [17:58:14.926] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [17:58:14.929] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [17:58:15.170] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [17:58:15.481] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [17:58:15.481] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [17:58:15.497] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [17:58:15.497] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [17:58:15.498] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [17:58:15.498] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [17:58:15.498] [Server thread/INFO]: Done (1.677s)! For help, type "help" or "?"
+2024-12-07 [17:58:15.555] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [17:58:56.451] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [17:58:56.452] [Server thread/INFO]: Disabling DevTools v1.17.1
+2024-12-07 [17:58:56.452] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [17:58:56.452] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [17:58:56.462] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [17:58:56.462] [Server thread/INFO]: Disabling WorldGuardian v1.0
+2024-12-07 [17:58:56.462] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [17:58:56.463] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [17:58:56.475] [Server thread/INFO]: Stopping other threads
+2024-12-07 [18:01:14.041] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:01:14.057] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:01:14.059] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:01:14.062] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:01:14.074] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:01:14.074] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:01:14.748] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:01:14.770] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:01:14.773] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:01:14.776] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:01:14.777] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:01:14.779] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:01:14.785] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:01:14.786] [Server thread/NOTICE]: Could not load plugin 'MyPlot': Disallowed by blacklist
+2024-12-07 [18:01:14.787] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:01:14.788] [Server thread/INFO]: Enabling DevTools v1.17.1
+2024-12-07 [18:01:15.048] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [18:01:15.092] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [18:01:15.096] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [18:01:15.146] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [18:01:15.147] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [18:01:15.147] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [18:01:15.381] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [18:01:15.701] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [18:01:15.701] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [18:01:15.717] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [18:01:15.717] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [18:01:15.718] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [18:01:15.718] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [18:01:15.718] [Server thread/INFO]: Done (1.679s)! For help, type "help" or "?"
+2024-12-07 [18:01:15.773] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [18:01:59.870] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [18:01:59.871] [Server thread/INFO]: Disabling DevTools v1.17.1
+2024-12-07 [18:01:59.872] [Server thread/INFO]: Disabling WorldGuardian v1.0
+2024-12-07 [18:01:59.872] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [18:01:59.880] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [18:01:59.880] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [18:01:59.880] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [18:01:59.881] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [18:01:59.899] [Server thread/INFO]: Stopping other threads
+2024-12-07 [18:02:02.629] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:02:02.646] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:02:02.649] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:02:02.654] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:02:02.665] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:02:02.665] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:02:03.349] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:02:03.368] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:02:03.370] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:02:03.371] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:02:03.373] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:02:03.380] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:02:03.381] [Server thread/CRITICAL]: Could not load plugin 'MyPlot': Incompatible API version (plugin requires one of: 4.0.0)
+2024-12-07 [18:02:03.381] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:02:03.382] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:02:03.384] [Server thread/EMERGENCY]: Failed to load some plugins, stopping server to protect server integrity
+2024-12-07 [18:02:03.384] [Server thread/EMERGENCY]: Forcing server shutdown
+2024-12-07 [18:03:02.164] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:03:02.185] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:03:02.188] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:03:02.193] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:03:02.204] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:03:02.204] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:03:02.897] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:03:02.919] [Server thread/CRITICAL]: Could not load plugin 'MyPlot': Incompatible API version (plugin requires one of: 4.10.0)
+2024-12-07 [18:03:02.919] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:03:02.922] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:03:02.924] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:03:02.926] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:03:02.934] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:03:02.935] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:03:02.936] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:03:02.938] [Server thread/EMERGENCY]: Failed to load some plugins, stopping server to protect server integrity
+2024-12-07 [18:03:02.938] [Server thread/EMERGENCY]: Forcing server shutdown
+2024-12-07 [18:03:25.994] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:03:26.009] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:03:26.011] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:03:26.015] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:03:26.025] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:03:26.025] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:03:26.698] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:03:26.717] [Server thread/CRITICAL]: Could not load plugin 'MyPlot': Incompatible API version (plugin requires one of: 4.10.0)
+2024-12-07 [18:03:26.721] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:03:26.724] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:03:26.731] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:03:26.731] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:03:26.733] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:03:26.735] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:03:26.738] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:03:26.741] [Server thread/EMERGENCY]: Failed to load some plugins, stopping server to protect server integrity
+2024-12-07 [18:03:26.741] [Server thread/EMERGENCY]: Forcing server shutdown
+2024-12-07 [18:09:15.976] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:09:15.990] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:09:15.992] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:09:15.997] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:09:16.008] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:09:16.008] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:09:16.692] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:09:16.708] [Server thread/NOTICE]: Could not load plugin 'MyPlot': Disallowed by blacklist
+2024-12-07 [18:09:16.711] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:09:16.714] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:09:16.716] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:09:16.717] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:09:16.725] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:09:16.728] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:09:16.730] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:09:16.734] [Server thread/INFO]: Enabling DevTools v1.17.1
+2024-12-07 [18:09:16.990] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [18:09:17.036] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [18:09:17.036] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [18:09:17.039] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [18:09:17.040] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [18:09:17.043] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [18:09:17.333] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [18:09:17.698] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [18:09:17.698] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [18:09:17.719] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [18:09:17.719] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [18:09:17.719] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [18:09:17.719] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [18:09:17.719] [Server thread/INFO]: Done (1.746s)! For help, type "help" or "?"
+2024-12-07 [18:09:17.775] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [18:10:02.622] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [18:10:02.623] [Server thread/INFO]: Disabling DevTools v1.17.1
+2024-12-07 [18:10:02.623] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [18:10:02.623] [Server thread/INFO]: Disabling WorldGuardian v1.0
+2024-12-07 [18:10:02.623] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [18:10:02.624] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [18:10:02.624] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [18:10:02.632] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [18:10:02.651] [Server thread/INFO]: Stopping other threads
+2024-12-07 [18:10:18.595] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:10:18.611] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:10:18.613] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:10:18.617] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:10:18.628] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:10:18.629] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:10:19.314] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:10:19.335] [Server thread/NOTICE]: Could not load plugin 'MyPlot': Disallowed by blacklist
+2024-12-07 [18:10:19.336] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:10:19.339] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:10:19.342] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:10:19.349] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:10:19.351] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:10:19.353] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:10:19.355] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:10:19.358] [Server thread/INFO]: Enabling DevTools v1.17.1
+2024-12-07 [18:10:19.629] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [18:10:19.674] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [18:10:19.720] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [18:10:19.724] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [18:10:19.727] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [18:10:19.728] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [18:10:19.803] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [18:10:20.289] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [18:10:20.289] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [18:10:20.303] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [18:10:20.303] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [18:10:20.303] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [18:10:20.303] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [18:10:20.303] [Server thread/INFO]: Done (1.711s)! For help, type "help" or "?"
+2024-12-07 [18:10:20.410] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [18:10:46.706] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [18:10:46.707] [Server thread/INFO]: Disabling DevTools v1.17.1
+2024-12-07 [18:10:46.707] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [18:10:46.716] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [18:10:46.716] [Server thread/INFO]: Disabling WorldGuardian v1.0
+2024-12-07 [18:10:46.717] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [18:10:46.717] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [18:10:46.718] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [18:10:46.740] [Server thread/INFO]: Stopping other threads
+2024-12-07 [18:21:53.761] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:21:53.782] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:21:53.784] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:21:53.787] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:21:53.799] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:21:53.799] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:21:54.516] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:21:54.563] [Server thread/CRITICAL]: Could not load plugin 'MyPlot': Incompatible API version (plugin requires one of: 4.10.0)
+2024-12-07 [18:21:54.563] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:21:54.575] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:21:54.576] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:21:54.577] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:21:54.580] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:21:54.581] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:21:54.584] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:21:54.587] [Server thread/EMERGENCY]: Failed to load some plugins, stopping server to protect server integrity
+2024-12-07 [18:21:54.587] [Server thread/EMERGENCY]: Forcing server shutdown
+2024-12-07 [18:23:41.402] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:23:41.416] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:23:41.418] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:23:41.421] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:23:41.430] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:23:41.431] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:23:42.107] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:23:42.127] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:23:42.130] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:23:42.132] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:23:42.138] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:23:42.139] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:23:42.140] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:23:42.142] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:23:42.144] [Server thread/INFO]: Enabling DevTools v1.17.1
+2024-12-07 [18:23:42.430] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [18:23:42.475] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [18:23:42.481] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [18:23:42.481] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [18:23:42.484] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [18:23:42.488] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [18:23:42.942] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [18:23:43.103] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [18:23:43.103] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [18:23:43.118] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [18:23:43.118] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [18:23:43.118] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [18:23:43.118] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [18:23:43.119] [Server thread/INFO]: Done (1.718s)! For help, type "help" or "?"
+2024-12-07 [18:23:43.176] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [18:23:53.907] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Session opened
+2024-12-07 [18:23:53.991] [Server thread/INFO]: [NetworkSession: 127.0.0.1 45954] Player: Carlos Dlw
+2024-12-07 [18:23:54.510] [Server thread/INFO]: Carlos Dlw[/127.0.0.1:45954] logged in with entity id 1 at (world, -1.864, 4, -1.694)
+2024-12-07 [18:24:00.710] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [18:24:54.866] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [18:24:54.873] [Server thread/INFO]: Disabling DevTools v1.17.1
+2024-12-07 [18:24:54.873] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [18:24:54.873] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [18:24:54.874] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [18:24:54.874] [Server thread/INFO]: Disabling WorldGuardian v1.0
+2024-12-07 [18:24:54.874] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [18:24:54.887] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [18:24:54.899] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Server closed
+2024-12-07 [18:24:54.899] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [18:24:54.940] [Server thread/INFO]: Stopping other threads
+2024-12-07 [18:25:04.632] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:25:04.647] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:25:04.649] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:25:04.652] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:25:04.664] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:25:04.664] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:25:05.338] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:25:05.361] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:25:05.364] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:25:05.365] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:25:05.368] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:25:05.370] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:25:05.371] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:25:05.377] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:25:05.378] [Server thread/INFO]: Enabling DevTools v1.17.1
+2024-12-07 [18:25:05.649] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [18:25:05.696] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [18:25:05.700] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [18:25:05.701] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [18:25:05.705] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [18:25:05.749] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [18:25:06.122] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [18:25:06.326] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [18:25:06.326] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [18:25:06.341] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [18:25:06.342] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [18:25:06.342] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [18:25:06.342] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [18:25:06.342] [Server thread/INFO]: Done (1.712s)! For help, type "help" or "?"
+2024-12-07 [18:25:06.450] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [18:26:04.547] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [18:26:04.548] [Server thread/INFO]: Disabling DevTools v1.17.1
+2024-12-07 [18:26:04.548] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [18:26:04.548] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [18:26:04.549] [Server thread/INFO]: Disabling WorldGuardian v1.0
+2024-12-07 [18:26:04.549] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [18:26:04.566] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [18:26:04.566] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [18:26:04.597] [Server thread/INFO]: Stopping other threads
+2024-12-07 [18:27:18.782] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:27:18.798] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:27:18.801] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:27:18.804] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:27:18.819] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:27:18.819] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:27:19.508] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:27:19.528] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:27:19.532] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:27:19.535] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:27:19.537] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:27:19.547] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:27:19.547] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:27:19.549] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:27:19.550] [Server thread/INFO]: Enabling DevTools v1.17.1
+2024-12-07 [18:27:19.825] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [18:27:19.871] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [18:27:19.872] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [18:27:19.919] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [18:27:19.920] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [18:27:19.923] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [18:27:20.504] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [18:27:20.505] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [18:27:20.520] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [18:27:20.520] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [18:27:20.521] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [18:27:20.521] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [18:27:20.521] [Server thread/INFO]: Done (1.741s)! For help, type "help" or "?"
+2024-12-07 [18:27:20.626] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0
+2024-12-07 [18:27:21.826] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [18:28:49.786] [Server thread/INFO]: [NetworkSession: ::1 55308] Session opened
+2024-12-07 [18:28:49.860] [Server thread/INFO]: [NetworkSession: ::1 55308] Player: Carlos Dlw
+2024-12-07 [18:28:50.358] [Server thread/INFO]: Carlos Dlw[/::1:55308] logged in with entity id 1 at (world, -1.864, 4, -1.694)
+2024-12-07 [18:28:55.731] [Server thread/INFO]: Carlos Dlw joined the game
+2024-12-07 [18:29:30.500] [Server thread/INFO]: Carlos Dlw left the game
+2024-12-07 [18:29:30.507] [Server thread/INFO]: [NetworkSession: Carlos Dlw] Session closed: Client disconnected
+2024-12-07 [18:29:52.925] [Server thread/INFO]: Received signal interrupt, stopping the server
+2024-12-07 [18:29:52.927] [Server thread/INFO]: Disabling DevTools v1.17.1
+2024-12-07 [18:29:52.927] [Server thread/INFO]: Disabling SimpleOffHand v1.0.0
+2024-12-07 [18:29:52.927] [Server thread/INFO]: Disabling EasyEdit v3.1.0
+2024-12-07 [18:29:52.941] [Server thread/INFO]: Disabling XCoords v1.0
+2024-12-07 [18:29:52.942] [Server thread/INFO]: Disabling MobMorph v0.1.1
+2024-12-07 [18:29:52.942] [Server thread/INFO]: Disabling WorldGuardian v1.0
+2024-12-07 [18:29:52.943] [Server thread/INFO]: Unloading world "world"
+2024-12-07 [18:29:52.997] [Server thread/INFO]: Stopping other threads
+2024-12-07 [18:31:00.105] [Server thread/INFO]: Loading server configuration
+2024-12-07 [18:31:00.119] [Server thread/INFO]: Selected English (eng) as the base language
+2024-12-07 [18:31:00.120] [Server thread/INFO]: Starting Minecraft: Bedrock Edition server version v1.21.50
+2024-12-07 [18:31:00.123] [Server thread/INFO]: Online mode is enabled. The server will verify that players are authenticated to Xbox Live.
+2024-12-07 [18:31:00.133] [Server thread/INFO]: This server is running PocketMine-MP version 5.23.1
+2024-12-07 [18:31:00.133] [Server thread/INFO]: PocketMine-MP is distributed under the LGPL License
+2024-12-07 [18:31:00.793] [Server thread/INFO]: Loading resource packs...
+2024-12-07 [18:31:00.814] [Server thread/INFO]: Loading MobMorph v0.1.1
+2024-12-07 [18:31:00.817] [Server thread/INFO]: Loading XCoords v1.0
+2024-12-07 [18:31:00.818] [Server thread/INFO]: Loading WorldGuardian v1.0
+2024-12-07 [18:31:00.819] [Server thread/INFO]: Loading DevTools v1.17.1
+2024-12-07 [18:31:00.825] [Server thread/INFO]: [DevTools] Registered folder plugin loader
+2024-12-07 [18:31:00.825] [Server thread/INFO]: Loading SimpleOffHand v1.0.0
+2024-12-07 [18:31:00.828] [Server thread/INFO]: Loading EasyEdit v3.1.0
+2024-12-07 [18:31:00.831] [Server thread/INFO]: Enabling DevTools v1.17.1
+2024-12-07 [18:31:01.606] [Server thread/INFO]: Preparing world "world"
+2024-12-07 [18:31:01.652] [Server thread/INFO]: Enabling MobMorph v0.1.1
+2024-12-07 [18:31:01.656] [Server thread/INFO]: Enabling XCoords v1.0
+2024-12-07 [18:31:01.657] [Server thread/INFO]: Enabling WorldGuardian v1.0
+2024-12-07 [18:31:01.660] [Server thread/INFO]: Enabling SimpleOffHand v1.0.0
+2024-12-07 [18:31:01.660] [Server thread/INFO]: Enabling EasyEdit v3.1.0
+2024-12-07 [18:31:01.795] [EasyEdit editing thread/NOTICE]: Couldn't find data for this pocketmine version, using latest (1.20.80.3)
+2024-12-07 [18:31:02.277] [Server thread/INFO]: Minecraft network interface running on 0.0.0.0:19132
+2024-12-07 [18:31:02.277] [Server thread/INFO]: GS4 Query listener running on 0.0.0.0:19132
+2024-12-07 [18:31:02.292] [Server thread/INFO]: Minecraft network interface running on [::]:19133
+2024-12-07 [18:31:02.292] [Server thread/INFO]: GS4 Query listener running on [::]:19133
+2024-12-07 [18:31:02.293] [Server thread/INFO]: Default game type: Survival Mode
+2024-12-07 [18:31:02.293] [Server thread/INFO]: If you find this project useful, please consider donating to support development: https://patreon.com/pocketminemp
+2024-12-07 [18:31:02.293] [Server thread/INFO]: Done (2.19s)! For help, type "help" or "?"
+2024-12-07 [18:31:02.349] [Server thread/WARNING]: [Console Reader Daemon] Unexpected output from child process: Warning: PHP Startup: Invalid date.timezone value '-03', using 'UTC' instead in Unknown on line 0

@@ -1,0 +1,16 @@
+---
+lockedWorlds: []
+areaPos:
+  Spawn:
+    pos: -6:6:3:3:-5:5
+    world: world
+    permissions:
+      block_break: false
+      block_place: false
+      chest_open: false
+      drop_item: false
+      pick_item: false
+      player_pvp: false
+      fall_damage: false
+    includeY: true
+...
